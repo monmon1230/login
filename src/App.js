@@ -6,7 +6,8 @@ import { Container } from "react-bootstrap";
 import HomePage from "./Component/HomePage/HomePage";
 import Register from "./Component/Login or register/register";
 
-const App = () => {
+const App = () => { 
+
   return (
     <div className="App">
       <BrowserRouter>
